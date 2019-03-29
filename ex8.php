@@ -1,14 +1,10 @@
 <?php
-
-print "Digite um produto:";
-$nu1=(string)fgets(STDIN);
-
-print "Digite um produto:";
-$nu2=(string)fgets(STDIN);
-
-print "Digite um produto:";
-$nu3=(string)fgets(STDIN);
-
+print "Digite um preço:";
+$nu1=(float)fgets(STDIN);
+print "Digite um preço:";
+$nu2=(float)fgets(STDIN);
+print "Digite um preço:";
+$nu3=(float)fgets(STDIN);
 if ($nu1<$nu2 and $nu1<$nu3){
     print "O primeiro é o mais barato\n";
 }
