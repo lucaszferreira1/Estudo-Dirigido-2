@@ -1,0 +1,8 @@
+</php
+
+$num=1
+
+while ($num1<=500){
+print "$num1";
+$num1=$num1-1+$num1-2;
+}
