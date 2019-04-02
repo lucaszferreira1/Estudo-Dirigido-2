@@ -27,3 +27,4 @@ if ($nu2<$nu1 and $nu2<$nu3){
 if ($nu3<$nu1 and $nu3<$nu2){
     print "O terceiro é o menor\n";
 }
+ 
