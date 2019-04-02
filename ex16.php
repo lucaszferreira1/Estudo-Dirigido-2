@@ -1,4 +1,4 @@
-</php 
+<?php 
 
 print "Digite o primeiro número:";
 $num1=(float)fgets(STDIN);
