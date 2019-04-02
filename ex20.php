@@ -1,29 +1,29 @@
-</php
+<?php
 
-print "********";
-print "********";
-print "********";
-print "********";
-print "********";
-print "********";
-print "********";
-print "********";
+print "********\n";
+print "********\n";
+print "********\n";
+print "********\n";
+print "********\n";
+print "********\n";
+print "********\n";
+print "********\n\n";
 
 
-print "*";
-print "**";
-print "***";
-print "****";
-print "*****";
-print "******";
-print "*******";
-print "********";
+print "*\n";
+print "**\n";
+print "***\n";
+print "****\n";
+print "*****\n";
+print "******\n";
+print "*******\n";
+print "********\n\n";
 
-print "********";
-print "*******";
-print "******";
-print "*****";
-print "****";
-print "***";
-print "**";
-print "*";
+print "********\n";
+print "*******\n";
+print "******\n";
+print "*****\n";
+print "****\n";
+print "***\n";
+print "**\n";
+print "*\n\n";
