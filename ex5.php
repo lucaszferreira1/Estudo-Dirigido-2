@@ -17,3 +17,4 @@ if ($media<7){
 if ($media==10){
     print "Aprovado com Distinção\n";
 }
+ 
