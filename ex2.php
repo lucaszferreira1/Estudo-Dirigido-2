@@ -9,3 +9,4 @@ if ($numero>=0){
 else{
     print "O número é negativo\n";
 }
+ 
