@@ -1,8 +1,8 @@
-</php 
+<?php 
 
-$num=101;
+$num=100;
 
 while ($num<>0){
 print "$num\n";
-$num=--
+$num=$num-1;
 }
